@@ -1,0 +1,36 @@
+body
+{
+    font-size: 30px;
+}
+.book-container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.book-container h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.book-container img {
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.book-container p {
+    margin-bottom: 8px;
+}
+
+.book-container .price {
+    font-weight: bold;
+}
+
+.book-container .year {
+    color: #888;
+}
+
