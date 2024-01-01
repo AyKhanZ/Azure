@@ -1,0 +1,6 @@
+Создать 3 ВМ на своем аккаунте
+1. Windows 11
+2. Linux (any)
+3. Windows Server (any)
+
+Сделать скриншоты (All resources, overview  каждого из ВМ)

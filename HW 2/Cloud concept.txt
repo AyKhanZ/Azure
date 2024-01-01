@@ -1,0 +1,2 @@
+Собрать информацию и сделать презентация на тему затратов (CapEx & OpEx) cloud vs on premise
+service

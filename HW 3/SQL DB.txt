@@ -1,0 +1,1 @@
+Создайте страницу на ASP.NET (WebApplication или MVC или API и страница на React). На странице должно быть combobox с категориями продуктов (ProductCategory). При выборе категории должно выйти список продуктов из этой категории. Используем Azure SQL Database и sample БД оттуда
